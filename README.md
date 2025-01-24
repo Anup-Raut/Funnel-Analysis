@@ -11,8 +11,8 @@ User Activity Data: This dataset tracks the progression of users through various
 User Category: This dataset provides the information of user category with user id.					
 
 
-![image alt]()
-![image alt]()
+![image alt](https://github.com/Anup-Raut/Funnel-Analysis/blob/afd1a8414a972736eea82959565c495977346425/Screenshot%20(197).png)
+![image alt](https://github.com/Anup-Raut/Funnel-Analysis/blob/afd1a8414a972736eea82959565c495977346425/Screenshot%20(198).png)
 
 **Report for Management**			
 1	23.33% of the user who browse the website end up purchasing the mobile						
