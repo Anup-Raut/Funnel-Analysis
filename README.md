@@ -10,7 +10,9 @@ User Interaction Details: This dataset captures each interaction of the user and
 User Activity Data: This dataset tracks the progression of users through various stages of their shopping journey, from initial browsing to the final purchase, the timestamps of each action.						
 User Category: This dataset provides the information of user category with user id.					
 
-!image[alt]()
+
+![image alt]()
+![image alt]()
 
 **Report for Management**			
 1	23.33% of the user who browse the website end up purchasing the mobile						
